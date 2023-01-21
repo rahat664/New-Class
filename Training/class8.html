@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Class 8</title>
+</head>
+<style>
+    .city {
+        background-color: tomato;
+        color: white;
+        margin: 20px;
+        padding: 20px;
+        border: 2px dashed black;
+    }
+    .main {
+        background-color: green;
+    }
+</style>
+<script>
+    function myFunction() {
+        const x = document.getElementsByClassName("city");
+        for (let i = 0; i < x.length; i++) {
+            x[i].style.color = "black";
+        }
+    }
+</script>
+<body>
+<h2>Use of The class Attribute in JavaScript</h2>
+<p>Click the button to hide all elements with class name "city":</p>
+
+<button onclick="myFunction()">Hide elements</button>
+<div class="city">
+    <h2>London</h2>
+    <p>London is the capital of England.</p>
+</div>
+
+<div class= " main city">
+    <h2>Paris</h2>
+    <p>Paris is the capital of France.</p>
+</div>
+
+<div class="city">
+    <h2>Tokyo</h2>
+    <p>Tokyo is the capital of Japan.</p>
+</div>
+</body>
+</html>

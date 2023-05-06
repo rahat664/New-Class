@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*!*h1 {*!*/
+/*!*    color: white;*!*/
+/*!*    background: black;*!*/
+/*!*    text-align: center;*!*/
+/*!*    height: 100px;*!*/
+/*!*    width: 300px;*!*/
+/*!*    padding: 10px;*!*/
+/*!*    margin: 10px;*!*/
+/*!*}*!*/
+
+/*!*p {*!*/
+/*!*    color: white;*!*/
+/*!*    background: black;*!*/
+/*!*    text-align: center;*!*/
+/*!*    height: 200px;*!*/
+/*!*    width: 400px;*!*/
+/*!*    padding: 10px;*!*/
+/*!*    margin: 10px;*!*/
+/*!*}*!*/
+/*!*#header {*!*/
+/*!*    color: lightblue;*!*/
+/*!*    background: blue;*!*/
+/*!*}*!*/
+/*!*.odds {*!*/
+/*!*    background: red;*!*/
+/*!*}*!*/
+/*!*.even {*!*/
+/*!*    background: lightseagreen;*!*/
+/*!*}*!*/
+
+/*c*/
+/*!*    text-align: center;*!*/
+/*!*    color: rgb(255, 99, 71);*!*/
+/*!*    background-color: #380701;*!*/
+/*!*    border: 1px solid black*!*/
+/*!*}*!*/
+/*div {*/
+/*    !*background-color: rgba(255, 255, 0, 0.4);*!*/
+/*    !*background-image: url("./image.jpeg");*!*/
+/*    !*background-repeat: no-repeat;*!*/
+/*    !*background-position: center;*!*/
+/*    !*background-size: cover;*!*/
+/*    !*background-attachment: scroll;*!*/
+/*    background: royalblue url("./image.jpeg") no-repeat center fixed;*/
+
+/*}*/
+
+/*div {*/
+/*    padding: 20px;*/
+/*    color: blue;*/
+/*    margin: 10px 20px;*/
+/*    border: 20px ridge blue;*/
+/*    !*border-radius: 20px;*!*/
+/*}*/
+
+/*body {*/
+/*    background: black;*/
+/*}*/

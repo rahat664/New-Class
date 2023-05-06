@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*#main {*/
+/*    background-color: black;*/
+/*}*/
+
+/*#main p{*/
+/*    color: green;*/
+/*}*/
+
+/*p {*/
+/*    color: powderblue;*/
+/*}*/
+
+/*.para {*/
+/*    color: aqua !important;*/
+/*}*/
+
+#main *{
+
+}
+
+#main *:not(:first-child) {
+    margin-bottom: 10px;
+}
+
+#main > *::first-letter {
+    color: red;
+}
